@@ -46,7 +46,7 @@ export default function Lavender() {
             Romans used lavender in baths to purify the body and spirit, while
             the Greeks used it to treat various ailments, from digestive issues
             to headaches. Its name comes from the Latin word &quot;lavare,&quot; meaning
-            "to wash," reflecting its ancient use as a cleansing herb.
+            &quot;to wash,&quot; reflecting its ancient use as a cleansing herb.
           </p>
           <br />
           <p>
