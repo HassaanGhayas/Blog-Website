@@ -35,7 +35,7 @@ export default function Orchid() {
             This wide range of species allows orchids to thrive in many
             different environments, from tropical rainforests and mountainous
             regions to arid deserts. This adaptability makes them an incredibly
-            resilient and varied group of plants, but it’s also what gives them
+            resilient and varied group of plants, but it&apos;s also what gives them
             their aura of rarity and exclusivity.
           </p>
           <br />
@@ -89,7 +89,7 @@ export default function Orchid() {
           </p>
           <br />
           <p>
-            The orchid’s exotic beauty, coupled with its rich history and
+            The orchid&apos;s exotic beauty, coupled with its rich history and
             symbolic meanings, makes it one of the most fascinating flowers in
             the world. Whether displayed as a centerpiece in a home or blooming
             in the wild, orchids command attention and admiration. Their

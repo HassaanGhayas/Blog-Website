@@ -26,7 +26,7 @@ export default function Peony() {
           <p>
             Peonies have long been associated with wealth, honor, and romance,
             especially in Asian cultures. In Chinese tradition, the peony is
-            often referred to as the "king of flowers" and is a symbol of
+            often referred to as the &quot;king of flowers&quot; and is a symbol of
             prosperity, good fortune, and honor. It is prominently featured in
             Chinese art, literature, and even celebrations, especially during
             weddings, where it represents a wish for a happy, prosperous
@@ -35,9 +35,9 @@ export default function Peony() {
           <br />
           <p>
             Peonies have been cultivated for thousands of years, with their
-            origins traced back to China and parts of Europe. The flower's name
-            comes from "Paeon," the Greek physician to the gods, who used the
-            peony’s healing properties to treat wounds and ailments. As such,
+            origins traced back to China and parts of Europe. The flower&apos;s name
+            comes from &quot;Paeon,&quot; the Greek physician to the gods, who used the
+            peony&apos;s healing properties to treat wounds and ailments. As such,
             peonies were once valued for their medicinal properties, believed to
             help with everything from digestive issues to soothing nerves.
           </p>
@@ -93,7 +93,7 @@ export default function Peony() {
           <br />
           <p>
             The peony, with its rich layers and timeless appeal, is more than
-            just a flower—it's a celebration of luxury, beauty, and enduring
+            just a flower—it&apos;s a celebration of luxury, beauty, and enduring
             grace. From ancient traditions to modern-day celebrations, the peony
             has maintained its status as one of the most beloved and prestigious
             flowers in the world. Whether admired in a garden, gifted as a token

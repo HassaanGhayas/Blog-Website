@@ -28,7 +28,7 @@ export default function Tulip() {
             connection to love traces back to Persian lore, where a prince named
             Farhad, in despair over the loss of his beloved, rode his horse off
             a cliff. From every drop of his blood, a red tulip sprang forth,
-            giving birth to the flower’s symbolic meaning of deep passion and
+            giving birth to the flower&apos;s symbolic meaning of deep passion and
             devotion.
           </p>
           <br />
@@ -42,16 +42,16 @@ export default function Tulip() {
           <br />
           <p>
             The flower quickly gained popularity, particularly in the
-            Netherlands, where "Tulip Mania" took hold during the 17th century.
+            Netherlands, where &quot;Tulip Mania&quot; took hold during the 17th century.
             At the height of this period, tulip bulbs became so valuable that
             they were traded for extravagant sums of money, sometimes even more
             than the cost of a house! Though the financial bubble eventually
-            burst, the tulip's charm endured, and it remains a symbol of Dutch
+            burst, the tulip&apos;s charm endured, and it remains a symbol of Dutch
             culture to this day.
           </p>
           <br />
           <p>
-            Tulips are a gardener's delight, as they are relatively easy to grow
+            Tulips are a gardener&apos;s delight, as they are relatively easy to grow
             and add vibrant color to any spring landscape. They are typically
             planted as bulbs in the fall, allowing them to establish roots
             before the winter frost. When spring arrives, tulips burst forth in

@@ -14,7 +14,7 @@ export default function Sunflower() {
         </div>
         <div className="max-w-[800px] w-full min-w-[250px] text-sm sm:text-md xl:text-lg ">
           <p>
-            There’s something undeniably cheerful about a sunflower. With its
+            There&apos;s something undeniably cheerful about a sunflower. With its
             bright yellow petals and towering presence, the sunflower seems to
             capture the warmth and energy of the sun itself. Whether swaying in
             fields or standing tall in gardens, this beloved flower radiates
@@ -43,7 +43,7 @@ export default function Sunflower() {
             Sunflowers have a rich history that dates back to around 3,000 BCE,
             when they were first cultivated by Native Americans in what is now
             the central United States. These early farmers recognized the
-            sunflower’s value not only for its beauty but also for its practical
+            sunflower&apos;s value not only for its beauty but also for its practical
             uses. The seeds were harvested for food, ground into flour, and even
             used for medicinal purposes.
           </p>

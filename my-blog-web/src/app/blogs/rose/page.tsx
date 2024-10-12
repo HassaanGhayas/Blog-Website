@@ -27,7 +27,7 @@ export default function Rose() {
             Greece, it was associated with Aphrodite, the goddess of love. In
             Rome, it became a symbol of secrecy and was used to adorn banquet
             halls where discussions were meant to be kept private. This is where
-            the phrase "sub rosa" (under the rose) originates, meaning
+            the phrase &quot;sub rosa&quot; (under the rose) originates, meaning
             confidential conversations.
           </p>
           <br />
@@ -42,7 +42,7 @@ export default function Rose() {
           <br />
           <p>
             One of the most remarkable aspects of the rose is its diversity.
-            With over 300 species and thousands of cultivars, there’s a rose for
+            With over 300 species and thousands of cultivars, there&apos;s a rose for
             every type of garden and occasion. From the classic hybrid tea
             roses, which boast long stems and large blooms, to climbing roses
             that can gracefully cover trellises and walls, this flower offers
@@ -74,9 +74,9 @@ export default function Rose() {
           </p>
           <br />
           <p>
-            The rose's cultural significance extends beyond gardens and flower
+            The rose&apos;s cultural significance extends beyond gardens and flower
             shops. It has been a muse for poets, artists, and musicians alike.
-            From Shakespeare’s sonnets to modern pop songs, the rose has served
+            From Shakespeare&apos;s sonnets to modern pop songs, the rose has served
             as a metaphor for love, beauty, and the complexities of life. Its
             image is often used to represent fleeting beauty and the delicate
             nature of human emotions.

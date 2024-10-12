@@ -1,4 +1,3 @@
-import Image from "next/image";
 import SectionOne from "@/app/components/sectionone";
 import Blogs from "@/app/components/sectiontwo";
 

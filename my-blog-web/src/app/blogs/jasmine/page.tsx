@@ -37,8 +37,8 @@ export default function Jasmine() {
             Jasmine has long been a symbol of love, purity, and sensuality. In
             various cultures, it is associated with romance and spirituality,
             its sweet fragrance often linked to the mysteries of the night. The
-            name "jasmine" itself is derived from the Persian word Yasmin,
-            meaning "gift from God," which reflects the deep reverence many
+            name &quot;jasmine&quot; itself is derived from the Persian word Yasmin,
+            meaning &quot;gift from God,&quot; which reflects the deep reverence many
             cultures hold for this beautiful bloom.
           </p>
           <br />
@@ -71,7 +71,7 @@ export default function Jasmine() {
           <br />
           <p>
             Jasmine holds deep cultural significance in many parts of the world.
-            In India, jasmine is known as "Mogra" and is considered sacred,
+            In India, jasmine is known as &quot;Mogra&quot; and is considered sacred,
             often used in religious ceremonies and offerings to deities. It is
             also a symbol of divine hope and spiritual awakening. Jasmine
             garlands are commonly used in weddings and festive occasions,
@@ -88,20 +88,20 @@ export default function Jasmine() {
           </p>
           <br />
           <p>
-            In the Philippines, jasmine, or "Sampaguita", is the national
+            In the Philippines, jasmine, or &quot;Sampaguita&quot;, is the national
             flower. It represents purity, simplicity, and humility. The flower
             is often used in traditional events and ceremonies, and its white
-            blossoms are symbolic of the country’s natural beauty and cultural
+            blossoms are symbolic of the country&apos;s natural beauty and cultural
             heritage.
           </p>
           <br />
           <p>
             Jasmine, with its delicate petals and alluring fragrance, is a
             flower that captivates the senses and stirs the soul. As a symbol of
-            love, beauty, and purity, jasmine's timeless charm has made it a
+            love, beauty, and purity, jasmine&apos;s timeless charm has made it a
             cherished flower across cultures and generations. Whether blooming
             in a moonlit garden, used in religious ceremonies, or distilled into
-            luxurious perfumes, jasmine remains a symbol of nature’s quiet
+            luxurious perfumes, jasmine remains a symbol of nature&apos;s quiet
             elegance and the hidden beauty that blossoms in the night.
           </p>
         </div>

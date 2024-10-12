@@ -41,7 +41,7 @@ export default function Daisy() {
           <p>
             Daisies are often associated with happiness and positivity, making
             them a popular gift for occasions like birthdays, celebrations, or
-            to simply brighten someone's day. Their cheerful appearance
+            to simply brighten someone&apos;s day. Their cheerful appearance
             instantly lifts the spirits, spreading joy wherever they bloom.
           </p>
           <br />
@@ -50,7 +50,7 @@ export default function Daisy() {
             roadsides, evoking a sense of freedom and natural beauty. Their
             wild, untamed nature symbolizes a carefree spirit and a connection
             to the earth. Daisies remind us that beauty can be found in the
-            simplest, most unassuming things, and that nature’s gifts are often
+            simplest, most unassuming things, and that nature&apos;s gifts are often
             the most cherished.
           </p>
           <br />
@@ -90,7 +90,7 @@ export default function Daisy() {
           <br />
           <p>
             The daisy, with its bright and simple charm, is more than just a
-            flower—it's a symbol of joy, purity, and the beauty of life's
+            flower—it&apos;s a symbol of joy, purity, and the beauty of life&apos;s
             simplest moments. Whether given as a gift, planted in a garden, or
             admired in a wild meadow, daisies bring a sense of happiness and
             positivity that resonates with people of all ages. With their

@@ -6,21 +6,21 @@ export default function About() {
           About
         </span>
         <p className="text-center text-lg font-medium text-orange-400">
-          "Discover, Learn, and Grow with Blossom"
+        &quot;Discover, Learn, and Grow with Blossom&quot;
         </p>
         <div className="max-w-[800px] w-full min-w-[250px] text-sm sm:text-md xl:text-lg ">
           <p>
             <span className="font-semibold">Welcome to Blossom,</span> your
             go-to destination for all things flowers! We believe that every
-            bloom has a unique story to tell, and we’re here to help you
-            discover the beauty, elegance, and meaning behind nature’s most
+            bloom has a unique story to tell, and we&apos;re here to help you
+            discover the beauty, elegance, and meaning behind nature&apos;s most
             captivating creations.
           </p>
           <br />
           <p>
             At Blossom, we are passionate about cultivating a love for flowers
             through insightful articles, gardening tips, and inspiration for
-            every floral enthusiast. Whether you're a seasoned gardener or just
+            every floral enthusiast. Whether you&apos;re a seasoned gardener or just
             someone who enjoys the charm of a fresh bouquet, our blog is
             designed to help you learn, explore, and grow in your appreciation
             of flowers.
@@ -57,7 +57,7 @@ export default function About() {
           <br />
           <p>
             <i>
-              Join us on this blooming journey, and let’s celebrate the art of
+              Join us on this blooming journey, and let&apos;s celebrate the art of
               flowering together!
             </i>
           </p>

@@ -7,7 +7,7 @@ export default function Contact() {
             Contact us
           </span>
           <p className="mt-8 text-center text-lg font-medium text-orange-400">
-            "Let’s Nurture a Connection!"
+          &quot;Let&apos;s Nurture a Connection!&quot;
           </p>
           <div className="grid grid-rows-6 grid-cols-1 sm:grid-cols-2 sm:grid-rows-5 min-w-[250px] gap-4 max-w-[500px] bg-white p-10 rounded-xl mx-5 md:mx-0 mt-10">
             <input

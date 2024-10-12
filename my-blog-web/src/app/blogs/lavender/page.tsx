@@ -15,7 +15,7 @@ export default function Lavender() {
         <div className="max-w-[800px] w-full min-w-[250px] text-sm sm:text-md xl:text-lg ">
           <p>
             Lavender, with its delicate purple blooms and enchanting scent, is
-            more than just a flower—it's a symbol of tranquility, healing, and
+            more than just a flower—it&apos;s a symbol of tranquility, healing, and
             peace. Known for its soothing properties, lavender has been used for
             centuries in aromatherapy, herbal medicine, and beauty rituals. Its
             unique fragrance, combined with its calming effect, makes lavender a
@@ -23,7 +23,7 @@ export default function Lavender() {
           </p>
           <br />
           <p>
-            Lavender’s scent is widely recognized for its calming and
+            Lavender&apos;s scent is widely recognized for its calming and
             therapeutic properties. The fresh, floral, and slightly sweet
             fragrance of lavender is often used to alleviate stress, anxiety,
             and insomnia. Whether inhaled directly or diffused through essential
@@ -32,7 +32,7 @@ export default function Lavender() {
           </p>
           <br />
           <p>
-            The power of lavender’s scent is so potent that it’s frequently used
+            The power of lavender&apos;s scent is so potent that it&apos;s frequently used
             in spas, massage oils, and skincare products. Its soothing qualities
             not only relax the mind but also reduce tension in the body, making
             it a favorite for stress relief and self-care rituals. Lavender
@@ -45,7 +45,7 @@ export default function Lavender() {
             Lavender has a long history as a medicinal plant. In ancient times,
             Romans used lavender in baths to purify the body and spirit, while
             the Greeks used it to treat various ailments, from digestive issues
-            to headaches. Its name comes from the Latin word "lavare," meaning
+            to headaches. Its name comes from the Latin word &quot;lavare,&quot; meaning
             "to wash," reflecting its ancient use as a cleansing herb.
           </p>
           <br />
@@ -63,14 +63,14 @@ export default function Lavender() {
             aromatherapy, thanks to its wide range of benefits. Inhaling
             lavender oil has been shown to reduce stress and anxiety levels,
             improve sleep quality, and even lower blood pressure. For
-            individuals suffering from restlessness or insomnia, lavender’s
+            individuals suffering from restlessness or insomnia, lavender&apos;s
             calming aroma provides a natural and gentle remedy for achieving a
             deeper and more restful sleep.
           </p>
           <br />
           <p>
             Beyond relaxation, lavender is also known to boost mood and reduce
-            symptoms of depression. The flower’s comforting and uplifting
+            symptoms of depression. The flower&apos;s comforting and uplifting
             fragrance has a way of calming the mind while encouraging feelings
             of happiness and well-being. A few drops of lavender essential oil
             in a diffuser or bath can transform the atmosphere of any room,
@@ -103,7 +103,7 @@ export default function Lavender() {
             transform any space into a sanctuary of peace and relaxation, while
             its medicinal and therapeutic benefits make it a staple in wellness
             routines. Whether blooming in the garden, infused into skincare
-            products, or used in aromatherapy, lavender’s gentle beauty and
+            products, or used in aromatherapy, lavender&apos;s gentle beauty and
             tranquility are truly unmatched.
           </p>
         </div>
